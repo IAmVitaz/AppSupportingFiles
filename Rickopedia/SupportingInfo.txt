@@ -1,0 +1,23 @@
+**About**
+
+Rickopedia is a mobile encyclopedia around popular Rick and Morty show. It allows user to get more information regarding characters and episodes of the show.
+
+The whole app consists of 2 main sections separated in 2 tabs on the bottom menu:
+
+**Characters**
+
+This section shows the list of characters appeared in the show. The list will go on and new data will come up as long as user scroll down the list. List can be filtered by gender, status and name. 
+
+When user clicks on any character, more information will appear on the character details screen. Last block of the character details view show the list of episodes this character appeared in. Every episode will open episode details screen.
+
+**Episodes**
+
+This section shows the list of episodes in the show. The list will go on and new data will come up as long as user scroll down the list. This list can be filtered by season, and name. 
+
+When user clicks on any episode, more information will appear on the episode details screen. Last block of the character details view show the list of characters appeared in the episode. Clicking on the character will open character details screen. 
+
+All together it creates cross-episode navigation between characters and episodes allowing easy surfing and getting to know this show better after every session.
+
+**Questions**
+
+If you have any questions, suggestions or just want to express feelings about how cool this app is, please feel free to reach me out at vitaz.development@gmail.com. I would be glad to be in touch.
